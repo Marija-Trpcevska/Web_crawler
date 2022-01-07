@@ -1,0 +1,80 @@
+Title | Author | Rating
+The Adventures of Huckleberry Finn | Mark Twain | 3.82
+War and Peace | Leo Tolstoy | 4.13
+Romeo and Juliet | William Shakespeare | 3.75
+The Diary of a Young Girl | Anne Frank | 4.17
+The Adventures of Tom Sawyer | Mark Twain | 3.92
+The Handmaid's Tale | Margaret Atwood | 4.12
+Harry Potter and the Half-Blood Prince | J.K. Rowling | 4.57
+Night | Elie Wiesel | 4.34
+One Flew Over the Cuckoo's Nest | Ken Kesey | 4.19
+Life of Pi | Yann Martel | 3.92
+A Tree Grows in Brooklyn | Betty  Smith | 4.28
+To Kill a Mockingbird | Harper Lee | 4.27
+Tolkien On Fairy-stories | J.R.R. Tolkien | 4.30
+Gone with the Wind | Margaret Mitchell | 4.30
+Green Eggs and Ham | Dr. Seuss | 4.29
+A Tale of Two Cities | Charles Dickens | 3.86
+The Stand | Stephen King | 4.33
+The Hitchhiker's Guide to the Galaxy | Douglas Adams | 4.22
+Harry Potter and the Chamber of Secrets | J.K. Rowling | 4.43
+Atlas Shrugged | Ayn Rand | 3.69
+The Brothers Karamazov | Fyodor Dostoevsky | 4.33
+Memoirs of a Geisha | Arthur Golden | 4.13
+Jane Eyre | Charlotte Brontë | 4.13
+All Quiet on the Western Front | Erich Maria Remarque | 4.00
+Moby-Dick or, the Whale | Herman Melville | 3.52
+A Christmas Carol | Charles Dickens | 4.07
+Animal Farm | George Orwell | 3.97
+The Old Man and the Sea | Ernest Hemingway | 3.79
+The Secret Garden | Frances Hodgson Burnett | 4.13
+Lolita | Vladimir Nabokov | 3.88
+The Little House Collection | Laura Ingalls Wilder | 4.34
+The Great Gatsby | F. Scott Fitzgerald | 3.93
+The Outsiders | S.E. Hinton | 4.11
+Flowers for Algernon | Daniel Keyes | 4.16
+Little Women | Louisa May Alcott | 4.11
+The Lion, the Witch and the Wardrobe | C.S. Lewis | 4.22
+Wuthering Heights | Emily Brontë | 3.87
+The Metamorphosis | Franz Kafka | 3.83
+Twilight | Stephenie Meyer | 3.62
+The Poisonwood Bible | Barbara Kingsolver | 4.07
+Slaughterhouse-Five | Kurt Vonnegut Jr. | 4.08
+Ender's Game | Orson Scott Card | 4.30
+The Hobbit, or There and Back Again | J.R.R. Tolkien | 4.28
+The Cat in the Hat | Dr. Seuss | 4.16
+Macbeth | William Shakespeare | 3.90
+The Giving Tree | Shel Silverstein | 4.37
+Les Misérables | Victor Hugo | 4.18
+Oh, the Places You'll Go! | Dr. Seuss | 4.34
+Siddhartha | Hermann Hesse | 4.04
+Of Mice and Men | John Steinbeck | 3.88
+A Thousand Splendid Suns | Khaled Hosseini | 4.39
+Harry Potter and the Deathly Hallows | J.K. Rowling | 4.61
+The Count of Monte Cristo | Alexandre Dumas | 4.27
+Alice's Adventures in Wonderland / Through the Looking-Glass | Lewis Carroll | 4.06
+The Kite Runner | Khaled Hosseini | 4.32
+One Hundred Years of Solitude | Gabriel García Márquez | 4.09
+The Holy Bible: King James Version | Anonymous | 4.40
+Where the Wild Things Are | Maurice Sendak | 4.22
+Charlotte's Web | E.B. White | 4.18
+Harry Potter and the Prisoner of Azkaban | J.K. Rowling | 4.57
+The Book Thief | Markus Zusak | 4.38
+The Stranger | Albert Camus | 4.00
+Where the Sidewalk Ends | Shel Silverstein | 4.31
+Catch-22 | Joseph Heller | 3.98
+Lord of the Flies | William Golding | 3.69
+Pride and Prejudice | Jane Austen | 4.27
+Anne of Green Gables | L.M. Montgomery | 4.27
+Winnie-the-Pooh | A.A. Milne | 4.31
+The Little Prince | Antoine de Saint-Exupéry | 4.31
+Goodnight Moon | Margaret Wise Brown | 4.28
+Harry Potter and the Goblet of Fire | J.K. Rowling | 4.56
+Brave New World / Brave New World Revisited | Aldous Huxley | 4.17
+The Scarlet Letter | Nathaniel Hawthorne | 3.42
+The Picture of Dorian Gray | Oscar Wilde | 4.10
+The Odyssey | Homer | 3.78
+Tuesdays with Morrie | Mitch Albom | 4.13
+Harry Potter and the Sorcerer's Stone | J.K. Rowling | 4.47
+Uncle Tom's Cabin | Harriet Beecher Stowe | 3.88
+The Giver | Lois Lowry | 4.13
